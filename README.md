@@ -2,6 +2,7 @@
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning AI & ML , Web development
 - 📫 instagram :- @itz_a_kingsman
+- Computer Science Engineer (with AI and ML as specialization) @ Jain University,Bangalore
 
 
 <!---
