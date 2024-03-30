@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akashbellary
-- 👀 I’m interested in everything.
+- 👀 I’m interested in Artificial Intelligence and Machine Learning, Cyber Security and Software Development.
 - 🌱 I’m currently learning AI & ML , Web development
 - 📫 instagram :- @invulnerable_tuf_nut
 - Computer Science Engineer (with AI and ML as specialization) @ Jain University,Bangalore
